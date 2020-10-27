@@ -20,7 +20,7 @@ ____
 
 I used to use [Total Finder](https://totalfinder.binaryage.com/) before some performance issues in Mountain Lion (I think). It attaches itself to Finder and adds new features to it, so it's not a standalone application. I used it mainly because Finder didn't yet have tabs, but it had other nice things as well. 
 
-It had this feature that I liked a lot called [Visor](https://totalfinder.binaryage.com/visor), which basically makes the finder window act like an overlay in the sense that you can toggle Finder visibility with a shortcut and it would also hide if another window gains focus.
+It had this feature that I liked a lot called [Visor](https://totalfinder.binaryage.com/visor), which basically makes the finder window act like an overlay in the sense that you can toggle Finder visibility with a shortcut and it would also hide if another window gains focus. This script brings at least part of that functionality to Finder and Path Finder.
 
 
 ## Visibility toggle for Path Finder and Finder (Alfred)
